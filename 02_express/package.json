@@ -1,0 +1,22 @@
+{
+  "name": "the-manager",
+  "version": "1.0.0",
+  "description": "a simple manager",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "sanatan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
